@@ -1,0 +1,16 @@
+{
+  "name": "alquileres-scrapper",
+  "version": "0.0.1",
+  "description": "Scrape le web.",
+  "main": "server.js",
+  "author": "Scotch",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cheerio": "latest",
+    "express": "latest",
+    "json2csv": "^4.0.0",
+    "nice-json2csv": "^0.2.2",
+    "promise": "^8.0.1",
+    "request": "latest"
+  }
+}
